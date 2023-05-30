@@ -17,5 +17,8 @@ Avec la répartition suivante :
 
 La répartition est très hétérogène et le ratio de Sharpe assez mauvais, il n'est pas recommendé de suivre cette stratégie
 
+Le ratio de Sharpe est calculé de la manière suivante :
 
 <img width="87" alt="Capture d’écran 2023-05-30 à 09 31 39" src="https://github.com/NFiuz5/Sharpe-ratio-Optimisation/assets/59396030/d567760e-0ca4-4ac2-b3b2-54f57f13d07a">
+
+où R est l'espérance des rentabilités du portefeuille, r étant le référentiel de comparaison choisi (en général le taux de placement sans risque), et sigma l'écart-type du taux de rendement du portefeuille considéré.
