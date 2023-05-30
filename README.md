@@ -3,7 +3,12 @@
 Ce script permet d'optimiser le ratio de Sharpe d'un portefeuille, dans l'exemple le portefeuille est constitué des actions d'Apple, de Cisco, de IBM et d'Amazon et l'optimisation est appliquée à une stratégie de conservation
 
 
-Le ratio de sharpe optimisé est de 0,8183
+Le ratio de sharpe optimisé est de 0,8183 (�
+=
+�
+−
+�
+�{\displaystyle S={{R-r} \over \sigma }})
 
 Avec la répartition suivante : 
 
